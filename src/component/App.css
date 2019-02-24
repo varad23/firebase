@@ -1,0 +1,111 @@
+ .main{
+background-color: whitesmoke
+ }
+ 
+ 
+ .header{
+  text-align: center;
+  color:brown;
+  background-color: aqua
+}
+
+.button {
+  
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.button1:hover {
+  background-color: #008CBA;
+  color: white;
+  text-align: center
+}
+
+img{
+  width: 100%;
+  
+}
+
+.middle{
+  
+  padding:6rem;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.quote{
+  
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: white;
+  transform:rotate(2deg);
+}
+.quote p{
+  text-align: center;
+  color: gray;
+  transform:rotate(-2deg);
+  font-size: 30px;
+}
+img.middle1{
+  padding-left: 6rem;
+  vertical-align: sub;
+  height: 30%;
+  width: 30%;
+}
+
+.middle2{
+color: aqua;
+font-size: 30px;
+text-align: right;
+padding-right: 25rem;
+padding-top: 4rem;
+}
+
+img.middle3{
+  padding-top:12rem;
+  padding-right: 6rem;
+  vertical-align: sub;
+  height: 30%;
+  width: 30%;
+}
+.middle4{
+  color: aqua;
+  font-size: 30px;
+  text-align: left;
+  padding-left: 20rem;
+  padding-top: 20rem;
+  }
+img.middle5{
+  padding-bottom:12rem;
+  padding-right: 6rem;
+  vertical-align: sub;
+  height: 30%;
+  width: 30%;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize: none;
+}
+
+.footer{
+  padding-top: 200px;
+  text-align: center;
+  text-shadow: 3px 2px purple;
+  font-size: 70px
+}
